@@ -1,6 +1,3 @@
-
-from sys import intern
-from nbformat import write
 import requests
 import json
 from urllib.request import urlopen
