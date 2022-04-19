@@ -1,0 +1,455 @@
+{
+  "Deli": {
+    "Sandwiches": [
+      {
+        "name": "Ernie's Market",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Oak Park",
+        "address": "8500 Capital St",
+        "phone": "(248) 541-9703"
+      },
+      {
+        "name": "Rocco's Italian Deli",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Detroit",
+        "address": "3627 Cass Ave",
+        "phone": "(313) 315-3033"
+      }
+    ],
+    "Delis": [
+      {
+        "name": "Ernie's Market",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Oak Park",
+        "address": "8500 Capital St",
+        "phone": "(248) 541-9703"
+      },
+      {
+        "name": "Beirut Bakery",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Redford",
+        "address": "25706 Schoolcraft",
+        "phone": "(313) 533-4422"
+      }
+    ],
+    "Bakeries": [
+      {
+        "name": "Beirut Bakery",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Redford",
+        "address": "25706 Schoolcraft",
+        "phone": "(313) 533-4422"
+      }
+    ]
+  },
+  "Coffee and Tea": {
+    "Coffee & Tea": [
+      {
+        "name": "Qahwah House",
+        "rating": 5.0,
+        "price": "$$",
+        "city": "Dearborn",
+        "address": "6655 Schaefer Rd",
+        "phone": "(313) 908-4521"
+      }
+    ],
+    "Cafes": [
+      {
+        "name": "The Narrow Way Cafe & Shop",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Detroit",
+        "address": "19331 Livernois Ave",
+        "phone": "(313) 397-7727"
+      },
+      {
+        "name": "Kidcadia Play Café",
+        "rating": 5.0,
+        "price": "Price not provided",
+        "city": "Dearborn",
+        "address": "13939 Michigan Ave",
+        "phone": "(313) 771-9000"
+      }
+    ]
+  },
+  "Deserts": {
+    "Desserts": [
+      {
+        "name": "Qahwah House",
+        "rating": 5.0,
+        "price": "$$",
+        "city": "Dearborn",
+        "address": "6655 Schaefer Rd",
+        "phone": "(313) 908-4521"
+      },
+      {
+        "name": "Bon Bon Bon",
+        "rating": 5.0,
+        "price": "$$",
+        "city": "Hamtramck",
+        "address": "11360 Joseph Campau",
+        "phone": "(313) 316-1430"
+      }
+    ],
+    "Chocolatiers & Shops": [
+      {
+        "name": "Bon Bon Bon",
+        "rating": 5.0,
+        "price": "$$",
+        "city": "Hamtramck",
+        "address": "11360 Joseph Campau",
+        "phone": "(313) 316-1430"
+      }
+    ],
+    "Ice Cream & Frozen Yogurt": [
+      {
+        "name": "Detroit Cookie Company",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Ferndale",
+        "address": "23421 Woodward Ave",
+        "phone": "(248) 246-8060"
+      },
+      {
+        "name": "The Proving Grounds",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Royal Oak",
+        "address": "417 S Washington Ave",
+        "phone": "(248) 716-0088"
+      }
+    ]
+  },
+  "American": {
+    "American (Traditional)": [
+      {
+        "name": "Boostan Cafe",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Hamtramck",
+        "address": "3470 Holbrook Ave",
+        "phone": "(313) 456-8100"
+      }
+    ],
+    "Middle Eastern": [
+      {
+        "name": "Boostan Cafe",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Hamtramck",
+        "address": "3470 Holbrook Ave",
+        "phone": "(313) 456-8100"
+      },
+      {
+        "name": "Sahara",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Dearborn",
+        "address": "22815 Michigan Ave",
+        "phone": "(313) 406-5959"
+      }
+    ],
+    "American (New)": [
+      {
+        "name": "Chartreuse",
+        "rating": 4.5,
+        "price": "$$$",
+        "city": "Detroit",
+        "address": "15 E Kirby St",
+        "phone": "(313) 818-3915"
+      },
+      {
+        "name": "Dime Store",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Detroit",
+        "address": "719 Griswold St",
+        "phone": "(313) 962-9106"
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Michigan & Trumbull",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Detroit",
+        "address": "1441 W Elizabeth St",
+        "phone": "(313) 637-4992"
+      },
+      {
+        "name": "Pie Sci",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Detroit",
+        "address": "5163 Trumbull Ave",
+        "phone": "(313) 818-0290"
+      }
+    ],
+    "Breakfast & Brunch": [
+      {
+        "name": "Dime Store",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Detroit",
+        "address": "719 Griswold St",
+        "phone": "(313) 962-9106"
+      }
+    ],
+    "Diners": [
+      {
+        "name": "Dime Store",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Detroit",
+        "address": "719 Griswold St",
+        "phone": "(313) 962-9106"
+      }
+    ],
+    "Fast Food": [
+      {
+        "name": "Zo's Good Burger - Dearborn",
+        "rating": 4.5,
+        "price": "$",
+        "city": "Dearborn",
+        "address": "14311 Michigan Ave",
+        "phone": "(313) 584-3114"
+      }
+    ],
+    "Burgers": [
+      {
+        "name": "Zo's Good Burger - Dearborn",
+        "rating": 4.5,
+        "price": "$",
+        "city": "Dearborn",
+        "address": "14311 Michigan Ave",
+        "phone": "(313) 584-3114"
+      }
+    ]
+  },
+  "Healthy": {
+    "Juice Bars & Smoothies": [
+      {
+        "name": "Boostan Cafe",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Hamtramck",
+        "address": "3470 Holbrook Ave",
+        "phone": "(313) 456-8100"
+      }
+    ],
+    "Salad": [
+      {
+        "name": "Sahara",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Dearborn",
+        "address": "22815 Michigan Ave",
+        "phone": "(313) 406-5959"
+      }
+    ],
+    "Soup": [
+      {
+        "name": "Sahara",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Dearborn",
+        "address": "22815 Michigan Ave",
+        "phone": "(313) 406-5959"
+      }
+    ],
+    "Vegan": [
+      {
+        "name": "Unburger Grill",
+        "rating": 4.5,
+        "price": "$",
+        "city": "Dearborn",
+        "address": "22018 Michigan Ave",
+        "phone": "(313) 633-0881"
+      }
+    ],
+    "Health Markets": [
+      {
+        "name": "The Sprout House Natural Foods Market",
+        "rating": 5.0,
+        "price": "$",
+        "city": "Grosse Pointe Park",
+        "address": "15233 Kercheval St",
+        "phone": "(313) 331-3200"
+      }
+    ]
+  },
+  "International": {
+    "Africa": {
+      "African": [
+        {
+          "name": "Baobab Fare",
+          "rating": 5.0,
+          "price": "$$",
+          "city": "Detroit",
+          "address": "6568 Woodward Ave",
+          "phone": "(313) 265-3093"
+        }
+      ]
+    },
+    "Asia": {
+      "Lebanese": [
+        {
+          "name": "Beirut Bakery",
+          "rating": 5.0,
+          "price": "$",
+          "city": "Redford",
+          "address": "25706 Schoolcraft",
+          "phone": "(313) 533-4422"
+        }
+      ],
+      "Chinese": [
+        {
+          "name": "Tj's Shanghai Dumplings",
+          "rating": 5.0,
+          "price": "Price not provided",
+          "city": "Madison Heights",
+          "address": "27312 John R Rd",
+          "phone": "(248) 586-9588"
+        }
+      ],
+      "Halal": [
+        {
+          "name": "Peepo's Subs & Shawarma",
+          "rating": 4.5,
+          "price": "$",
+          "city": "Taylor",
+          "address": "10890 S Beech Daly Rd",
+          "phone": "(313) 299-9992"
+        },
+        {
+          "name": "Zo's Good Burger - Dearborn",
+          "rating": 4.5,
+          "price": "$",
+          "city": "Dearborn",
+          "address": "14311 Michigan Ave",
+          "phone": "(313) 584-3114"
+        }
+      ]
+    },
+    "Latin America": {
+      "Tapas/Small Plates": [
+        {
+          "name": "Chartreuse",
+          "rating": 4.5,
+          "price": "$$$",
+          "city": "Detroit",
+          "address": "15 E Kirby St",
+          "phone": "(313) 818-3915"
+        }
+      ],
+      "Mexican": [
+        {
+          "name": "Taqueria El Rey",
+          "rating": 4.5,
+          "price": "$",
+          "city": "Detroit",
+          "address": "4730 W Vernor Hwy",
+          "phone": "(313) 357-3094"
+        },
+        {
+          "name": "Honey Bee La Colmena",
+          "rating": 4.5,
+          "price": "$",
+          "city": "Detroit",
+          "address": "2443 Bagley St",
+          "phone": "(313) 237-0295"
+        }
+      ],
+      "Tacos": [
+        {
+          "name": "The Taco Stand Taqueria",
+          "rating": 4.5,
+          "price": "$",
+          "city": "Allen Park",
+          "address": "5038 Allen Rd",
+          "phone": "(313) 724-6221"
+        }
+      ]
+    },
+    "Europe": {
+      "Italian": [
+        {
+          "name": "Rocco's Italian Deli",
+          "rating": 4.5,
+          "price": "$$",
+          "city": "Detroit",
+          "address": "3627 Cass Ave",
+          "phone": "(313) 315-3033"
+        },
+        {
+          "name": "Giovanni's Ristorante",
+          "rating": 4.5,
+          "price": "$$$",
+          "city": "Detroit",
+          "address": "330 S Oakwood",
+          "phone": "(313) 841-0122"
+        },
+        {
+          "name": "Buddy's Pizza",
+          "rating": 4.5,
+          "price": "$$",
+          "city": "Detroit",
+          "address": "17125 Conant St",
+          "phone": "(313) 892-9001"
+        },
+        {
+          "name": "Oak & Reel",
+          "rating": 4.5,
+          "price": "Price not provided",
+          "city": "Detroit",
+          "address": "2921 E Grand Blvd",
+          "phone": "(313) 270-9600"
+        }
+      ]
+    }
+  },
+  "Bars": {},
+  "Mediterranean and Seafood": {
+    "Seafood": [
+      {
+        "name": "Taqueria El Rey",
+        "rating": 4.5,
+        "price": "$",
+        "city": "Detroit",
+        "address": "4730 W Vernor Hwy",
+        "phone": "(313) 357-3094"
+      },
+      {
+        "name": "Andalus Mediterranian Grill",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Dearborn",
+        "address": "3765 S Telegraph Rd",
+        "phone": "(313) 551-3356"
+      },
+      {
+        "name": "Oak & Reel",
+        "rating": 4.5,
+        "price": "Price not provided",
+        "city": "Detroit",
+        "address": "2921 E Grand Blvd",
+        "phone": "(313) 270-9600"
+      }
+    ],
+    "Mediterranean": [
+      {
+        "name": "Andalus Mediterranian Grill",
+        "rating": 4.5,
+        "price": "$$",
+        "city": "Dearborn",
+        "address": "3765 S Telegraph Rd",
+        "phone": "(313) 551-3356"
+      }
+    ]
+  }
+}
